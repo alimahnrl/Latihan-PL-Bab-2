@@ -1,0 +1,4 @@
+identifikasi
+class : Mahasiswa, Lapangan, Main
+Attribute : jumlah_mahasiswa, panjang, lebar, nama, nim, jumlah_putaran, jumlah_waktu
+Method : getNama, ambilKecepatan, getJarak, 
